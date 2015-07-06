@@ -5,7 +5,7 @@ GitHub
 https://github.com/alexandrkotov/exercises.git
 @alexandrkotov
 alexandrkotov
-pswGeekbrains
+pswGeekbrains2
 alex_moscow@inbox.ru
 
 
